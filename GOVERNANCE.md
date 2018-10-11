@@ -2,11 +2,15 @@
 
 ## Glossary
 
-* **Advisory Committee.**  A group of people with representation from a variety of AMP's constituencies including Users, End-users and Collaborators who provide advice to the Technical Steering Committee.
+* **Advisory Committee (AC).**  A group of people with representation from a variety of AMP's constituencies including Users, End-users and Collaborators who provide advice to the Technical Steering Committee.
 
 * **Collaborators.**  People who have been granted write-access to ampproject repositories.
 
 * **Contributors**.  People who have opened a pull request or an issue, or commented on an issue. Contributors are granted certain permissions on the repositories to make it easier to participate--e.g. assigning issues, attaching labels to issues, etc.
+
+* **Facilitator.**  A member of a governance body who is responsible for facilitating the consensus-based decision making process and acting as a representative to other governance bodies.
+
+* **Governance body** Any of the Advisory Committee, Technical Steering Committee, and Workings Groups.
 
 * **Users.** Developers who use AMP but haven’t contributed to it (yet).
 
@@ -15,8 +19,6 @@
 * **Owners**.  People who are most familiar with a particular set of code and who have been granted the power (by Owners at a higher level) for approving changes to that code.  AMP will use a system similar to [Chromium's OWNERS](https://chromium.googlesource.com/chromium/src/+/master/docs/code_reviews.md#OWNERS-files) system.  The AMP Project will follow Chromium's [expectation for owners](https://chromium.googlesource.com/chromium/src/+/master/docs/code_reviews.md#expectations-of-owners).
 
 * **Technical Steering Committee (TSC).**  A group of people who set AMP's technical & product direction.
-
-* **Working Group Facilitator.**  A member of the Working Group designated by the TSC who is responsible for facilitating the consensus-based decision making process and acting as a representative to the TSC from the Working Group.
 
 * **Working Groups (WG)**.  A group of people who have a familiarity and interest in a given area; may be cross-cutting (e.g. "Documentation") or focused on a given area (e.g. "Ads & Analytics" or "Runtime").  These are formally recognized by the TSC, but may form informally.
 
