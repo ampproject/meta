@@ -8,7 +8,7 @@ This document describes best practices for the operation of AMP Working Groups. 
   * This repository should contain a README.md with enough information to make it possible to keep track of all work that is happening within the WG and all of the decisions that require the attention of WG members.  This should include:
     * the WG’s mandate from the TSC (e.g. which repositories and parts of the codebase the WG is responsible for)
     * a list of members
-    * how the working group operates, including discussion channels, how decisions are made, and how issue labels/GitHub projects are used.  This documentation should.
+    * how the working group operates, including discussion channels, how decisions are made, and how issue labels/GitHub projects are used.
 * Slack channel.  Create a Slack channel with the same name as the repo (e.g. #wg-ui).  Use this for communication within the WG that doesn’t fit in GitHub issues/PRs.
 * Discussions & decisions.
   * Adhere to AMP’s [consensus-based decision-making policy](../GOVERNANCE.md#decision-making-policy).
