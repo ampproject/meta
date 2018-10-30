@@ -4,7 +4,7 @@
 
 * **Advisory Committee (AC).**  A group of people with representation from a variety of AMP's constituencies including Users, End-users and Collaborators who provide advice to the Technical Steering Committee.
 
-* **Collaborators.**  People who have been granted write-access to ampproject repositories.
+* **Collaborators.**  People who have been granted write-access to ampproject repositories. Collaborators can merge pull requests when their code is reviewed and has **Owners** approval.
 
 * **Contributors**.  People who have opened a pull request or an issue, or commented on an issue. Contributors are granted certain permissions on the repositories to make it easier to participate--e.g. assigning issues, attaching labels to issues, etc.
 
