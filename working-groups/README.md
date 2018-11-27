@@ -5,6 +5,9 @@ An AMP [Working Groups](https://github.com/ampproject/meta/blob/master/GOVERNANC
 
 AMP’s Working Groups are:
 
+* **Access control and subscriptions.**
+  * Responsible for user specific controlled access to AMP content (amp-subscriptions, amp-access and related extensions)
+  * Facilitator: @jpettitt 
 * **Ads & analytics.**
   * Responsible for ads & analytics features and integrations in AMP.
   * Facilitator: @lannka
