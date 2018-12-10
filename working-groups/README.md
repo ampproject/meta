@@ -17,6 +17,9 @@ AMP’s Working Groups are:
 * **Approvers.**
   * Responsible for approving changes that have a significant impact on AMP's behavior or significant new features as described in the feature and bug fix process.
   * Facilitator: @dvoytenko
+* **Code of Conduct.**
+  * Responsible for enforcing AMP's [Code of Conduct](https://github.com/ampproject/meta/blob/master/CODE_OF_CONDUCT.md).  (The Technical Steering Committee delegates its responsibility for enforcement of the Code of Conduct to this Working Group.)
+  * Facilitator: @nainar
 * **Infrastructure.**
   * Responsible for AMP's infrastructure, including building, testing and release.
   * Facilitator: @rsimha
@@ -38,4 +41,7 @@ AMP’s Working Groups are:
 * **Validation & caching.**
   * Responsible for AMP's validator and features related to AMP caches.
   * Facilitator: @Gregable
+* **Viewers.**
+  * Responsible for ensuring support for AMP viewers and for the [amp-viewer project](https://github.com/ampproject/amp-viewer).
+  * Facilitator: @ericfs
 
