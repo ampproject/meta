@@ -4,7 +4,7 @@ All members, committers and volunteers in this community are required to act acc
 
 ## Responsible and enforcing this code of conduct
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please reach out to the [Code of Conduct Working Group](https://github.com/ampproject/wg-codeofconduct) [members](https://github.com/ampproject/wg-codeofconduct#members) immediately. We are here to help you. Your reports will be taken seriously and not dismissed or argued with.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please reach out to [members](https://github.com/ampproject/wg-codeofconduct#members) of the [Code of Conduct Working Group](https://github.com/ampproject/wg-codeofconduct) immediately. We are here to help you. Your reports will be taken seriously and not dismissed or argued with.
 
 ## What we believe in and how we act
 
