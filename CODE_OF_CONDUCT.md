@@ -4,7 +4,7 @@ All members, committers and volunteers in this community are required to act acc
 
 ## Responsible and enforcing this code of conduct
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please contact us immediately: contact Malte Ubl (malte.ubl+coc@gmail.com) or Dima Voytenko dimav+coc@google.com. We are here to help you. Your reports will be taken seriously and not dismissed or argued with.
+If you are being harassed, notice that someone else is being harassed, or have any other concerns, please reach out to [members](https://github.com/ampproject/wg-codeofconduct#members) of the [Code of Conduct Working Group](https://github.com/ampproject/wg-codeofconduct) immediately. We are here to help you. Your reports will be taken seriously and not dismissed or argued with.
 
 ## What we believe in and how we act
 
@@ -30,15 +30,15 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 ## Consequences for violations of this code of conduct
 
-If a participant engages in any behavior violating this code of conduct, the core members of this community may take any action they deem appropriate, including warning the offender or expulsion from the community, exclusion from any interaction and loss of all rights in this community.
+If a participant engages in any behavior violating this code of conduct, the [Code of Conduct Working Group](https://github.com/ampproject/wg-codeofconduct) may take any action they deem appropriate, including warning the offender or expulsion from the community, exclusion from any interaction and loss of all rights in this community.
 
 ## Decisions about consequences of violations
 
-Decisions about consequences of violations of this code of conduct are being made by this community's core committers and will not be discussed with the person responsible for the violation.
+Decisions about consequences of violations of this code of conduct are being made by [Code of Conduct Working Group](https://github.com/ampproject/wg-codeofconduct) and will not be discussed with the person responsible for the violation.
 
 ## For questions or feedback
 
-If you have any questions or feedback on this code of conduct, we're happy to hear from you: amphtml-coc@googlegroups.com (Private group; posts are not publicly visible; access is limited to selected committers)
+If you have any questions or feedback on this code of conduct, we're happy to hear from you: amphtml-coc@googlegroups.com (Private group; posts are not publicly visible; access is limited to the Working Group members.)
 
 ## Thanks for the inspiration
 
