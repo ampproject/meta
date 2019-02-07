@@ -2,7 +2,7 @@
 
 This document describes best practices for the operation of AMP Working Groups.  Working Groups may deviate from these best practices in reasonable ways that work best for the Working Group as long as those changes align with [AMP’s governance policy](../GOVERNANCE.md).
 
-* GitHub repository.  Create an ampproject/wg-{name} GitHub repository (e.g. “ampproject/wg-ui”).
+* GitHub repository.  Create an ampproject/wg-{name} GitHub repository (e.g. “ampproject/wg-ui-and-a11y”).
   * Link to this repo from the [ampproject/meta/working-groups/README.md](README.md) file.
   * Use this repo to keep for documentation about the working group, meeting agendas, etc.  **This repo should not contain code.**
   * This repository should contain a README.md with enough information to make it possible to keep track of all work that is happening within the WG and all of the decisions that require the attention of WG members.  This should include:
