@@ -32,8 +32,8 @@ AMP’s Working Groups are:
 * **Stories.**
   * Responsible for implementing and improving AMP's story format (amp-story).
   * Facilitator: @newmuis
-* **UI.**
-  * Responsible for AMP's visual components & interactions and AMP's overall user experience (including published guidelines for AMP UX).  The UI WG also has overall responsibility for ensuring AMP is accessible, though each WG is responsible for ensuring accessibility within their areas of responsibility. 
+* **UI & Accessibility**
+  * Responsible for AMP's visual components & interactions and AMP's overall accessibility and user experience (including published guidelines for AMP UX).  The UI WG also has overall responsibility for ensuring AMP is accessible, though each WG is responsible for ensuring accessibility within their areas of responsibility. 
   * Facilitator: @aghassemi
 * **Validation & caching.**
   * Responsible for AMP's validator and features related to AMP caches.
