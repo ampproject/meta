@@ -4,10 +4,6 @@
 
 * **Advisory Committee (AC).**  A group of people with representation from a variety of AMP's constituencies including Users, End-users and Collaborators who provide advice to the Technical Steering Committee.
 
-* <strong id=collaborator>Collaborators.</strong>  People who have been granted write-access to ampproject repositories. Collaborators can merge pull requests when their code is reviewed and has **Owners** approval.
-
-* <strong id=contributor>Contributors</strong>.  People who have opened a pull request or an issue, or commented on an issue. Contributors are granted certain permissions on the repositories to make it easier to participate--e.g. assigning issues, attaching labels to issues, etc.
-
 * <strong id=facilitator>Facilitator.</strong>  A member of a governance body who is responsible for facilitating the consensus-based decision making process and acting as a representative to other governance bodies.
 
 * <strong id=governance-body>Governance body</strong> Any of the Advisory Committee, Technical Steering Committee, and Workings Groups.
@@ -15,8 +11,6 @@
 * <strong id=user>Users.</strong> Developers who use AMP but haven’t contributed to it (yet).
 
 * <strong id=end-user>End-users</strong>. People who consume content distributed using the AMP format.
-
-* <strong id=owner>Owners</strong>.  People who are most familiar with a particular set of code and who have been granted the power (by Owners at a higher level) for approving changes to that code.  AMP will use a system similar to [Chromium's OWNERS](https://chromium.googlesource.com/chromium/src/+/master/docs/code_reviews.md#OWNERS-files) system.  The AMP Project will follow Chromium's [expectation for owners](https://chromium.googlesource.com/chromium/src/+/master/docs/code_reviews.md#expectations-of-owners).
 
 * **Technical Steering Committee (TSC).**  A group of people who set AMP's technical & product direction.
 
@@ -79,31 +73,6 @@ The Advisory Committee provides perspective and advice to the Technical Steering
 * A Working Group may add or remove members by using the consensus-based approach.
 * It is acceptable & expected that groups of people with a common interest will work together without requiring a formal Working Group.  These groups may choose to be officially recognized as a Working Group by making a proposal (including its purpose and proposed membership) to the TSC.
 * The TSC may disband/reorganize Working Groups as needed.
-
-
-## Community Roles
-
-* Owners
-  * Have write access to ampproject repositories and may approve PRs for areas in which they are OWNERs.
-  * Are expected to regularly participate in code reviews and design review discussions (offline and in the weekly design reviews).
-  * Requirements to be an Owner:
-    * Demonstrated familiarity of AMP's code base and design philosophy.
-    * Demonstrated deep expertise of their particular area of ownership.
-    * The AMP Project will follow Chromium's [expectation for owners](https://chromium.googlesource.com/chromium/src/+/master/docs/code_reviews.md#expectations-of-owners).
-    * Owners of an area may approve other owners at or below their area of expertise following the normal PR process.
-
-* Collaborators
-    * Have write access to ampproject repositories and may merge approved PRs.
-    * Assign issues/PRs and add labels.  (If GitHub allowed we'd allow any member of the AMP Project to perform these actions.
-    * Requirements to be a Collaborator:
-      * Demonstrated familiarity of AMP's code base and design philosophy.  This can be shown through the submission of significant PRs, the performance of thorough code reviews and the participation in design discussions over time.
-      * The TSC approves new Collaborators and may remove Collaborators (e.g. if they become inactive or are no longer performing their responsibilities).
-
-* Contributors
-  * Create issues (bug reports, Intent-to-implements, etc.)
-  * Join/participate in discussions on Slack, forums, design reviews, etc.
-  * Contributors are granted permissions to facilitate community involvement, including the ability to be assigned issues.
-
 
 ## Decision making policy
 
