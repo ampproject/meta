@@ -29,6 +29,7 @@ AMP’s Working Groups are:
   * Responsible for enforcing AMP's [Code of Conduct](https://github.com/ampproject/meta/blob/master/CODE_OF_CONDUCT.md).  (The Technical Steering Committee delegates its responsibility for enforcement of the Code of Conduct to this Working Group.)
   * Facilitator: @nainar
   * [CoC WG Github repo](https://github.com/ampproject/wg-codeofconduct)
+  
 * **Infrastructure.**
   * Responsible for AMP's infrastructure, including building, testing and release.
   * Facilitator: @rsimha
@@ -44,25 +45,25 @@ AMP’s Working Groups are:
   * Responsible for AMP's core runtime, such as layout/rendering and data binding.
   * Facilitator: @jridgewell
   * [Runtime WG Github repo](https://github.com/ampproject/wg-runtime)
-  * Slack channel: #wg-runtime
+  * Slack channel: [#wg-runtime](https://amphtml.slack.com/messages/wg-runtime)
   
 * **Stories.**
   * Responsible for implementing and improving AMP's story format (amp-story).
   * Facilitator: @newmuis
   * [Stories WG Github repo](https://github.com/ampproject/wg-stories)
-  * Slack channel: #wg-stories
+  * Slack channel: [#wg-stories](https://amphtml.slack.com/messages/wg-stories)
   
 * **UI & Accessibility**
   * Responsible for AMP's visual components & interactions and AMP's overall accessibility and user experience (including published guidelines for AMP UX).  The UI WG also has overall responsibility for ensuring AMP is accessible, though each WG is responsible for ensuring accessibility within their areas of responsibility. 
   * Facilitator: @aghassemi
   * [UI & a11y WG Github repo](https://github.com/ampproject/wg-ui-and-a11y)
-  * Slack channel: #wg-ui-and-a11y
+  * Slack channel: [#wg-ui-and-a11y](https://amphtml.slack.com/messages/wg-ui-and-a11y)
   
 * **Validation & caching.**
   * Responsible for AMP's validator and features related to AMP caches.
   * Facilitator: @Gregable
   * [Caching WG Github repo](https://github.com/ampproject/wg-caching)
-  * Slack channel: #wg-caching
+  * Slack channel: [#wg-caching](https://amphtml.slack.com/messages/wg-caching)
   
 * **Viewers.**
   * Responsible for ensuring support for AMP viewers and for the [amp-viewer project](https://github.com/ampproject/amp-viewer).
