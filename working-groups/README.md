@@ -68,5 +68,3 @@ AMP’s Working Groups are:
   * Responsible for ensuring support for AMP viewers and for the [amp-viewer project](https://github.com/ampproject/amp-viewer).
   * Facilitator: @ericfs
   * [Viewers WG Github repo](https://github.com/ampproject/wg-viewers)
-  * Slack channel: #wg-caching
-
