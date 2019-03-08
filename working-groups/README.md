@@ -38,7 +38,7 @@ AMP’s Working Groups are:
   * Responsible for helping developers who use AMP remain productive and keeping the AMP community healthy.  This includes maintaining and enhancing AMP's developer-facing sites and documentation, maintaining communication channels, organizing community events, etc.
   * Facilitator: @pbakaus
   * [Outreach WG Github repo](https://github.com/ampproject/wg-outreach)
-  * Slack channel: #wg-outreach
+  * Slack channel: [#wg-outreach](https://amphtml.slack.com/messages/wg-outreach)
   
 * **Runtime.**
   * Responsible for AMP's core runtime, such as layout/rendering and data binding.
