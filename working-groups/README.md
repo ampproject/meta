@@ -26,6 +26,9 @@ AMP’s Working Groups are:
 * **Outreach.**
   * Responsible for helping developers who use AMP remain productive and keeping the AMP community healthy.  This includes maintaining and enhancing AMP's developer-facing sites and documentation, maintaining communication channels, organizing community events, etc.
   * Facilitator: @pbakaus
+* **Performance.**
+  * Responsible for monitoring and improving AMP's load and runtime performance for compliant documents.
+  * Facilitator: @kristoferbaxter
 * **Runtime.**
   * Responsible for AMP's core runtime, such as layout/rendering and data binding.
   * Facilitator: @jridgewell
