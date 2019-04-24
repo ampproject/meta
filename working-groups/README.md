@@ -7,13 +7,16 @@ AMP’s Working Groups are:
 
 * **Access control and subscriptions.**
   * Responsible for user specific controlled access to AMP content (amp-subscriptions, amp-access and related extensions)
-  * Facilitator: @jpettitt 
-* **Ads & analytics.**
-  * Responsible for ads & analytics features and integrations in AMP.
+  * Facilitator: @jpettitt
+* **Ads.**
+  * Responsible for ads features and integrations in AMP.
   * Facilitator: @lannka
 * **AMP4Email.**
   * Responsible for the AMP4Email project.
   * Facilitator: @choumx
+* **Analytics.**
+  * Responsible for analytics features and integrations in AMP.
+  * Facilitator: @lannka
 * **Approvers.**
   * Responsible for approving changes that have a significant impact on AMP's behavior or significant new features as described in the feature and bug fix process.
   * Facilitator: @dvoytenko
