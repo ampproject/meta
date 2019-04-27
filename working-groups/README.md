@@ -9,17 +9,26 @@ AMP’s Working Groups are:
   * Responsible for user specific controlled access to AMP content (amp-subscriptions, amp-access and related extensions)
   * Facilitator: @jpettitt 
   * [Access WG Github repo](https://github.com/ampproject/wg-access-subscriptions)
+  * Slack channel: [#wg-access-subs](https://amphtml.slack.com/messages/wg-access-subs)
   
-* **Ads & analytics.**
-  * Responsible for ads & analytics features and integrations in AMP.
+* **Ads.**
+  * Responsible for ads features and integrations in AMP.
   * Facilitator: @lannka
-  * [Ads WG Github repo](https://github.com/ampproject/wg-ads) and [Analytics WG Github repo](https://github.com/ampproject/wg-analytics)
+  * [Ads WG Github repo](https://github.com/ampproject/wg-ads)
+  * Slack channel: [#wg-ads](https://amphtml.slack.com/messages/wg-ads)
   
 * **AMP4Email.**
   * Responsible for the AMP4Email project.
   * Facilitator: @choumx
   * [AMP4Email WG Github repo](https://github.com/ampproject/wg-amp4email)
-  
+  * Slack channel: [#wg-amp4email](https://amphtml.slack.com/messages/wg-amp4email)
+
+* **Analytics.**
+  * Responsible for analytics features and integrations in AMP.
+  * Facilitator: @lannka
+  * [Analytics WG Github repo](https://github.com/ampproject/wg-analytics)
+  * Slack channel: [#wg-analytics](https://amphtml.slack.com/messages/wg-analytics)
+ 
 * **Approvers.**
   * Responsible for approving changes that have a significant impact on AMP's behavior or significant new features as described in the feature and bug fix process.
   * Facilitator: @dvoytenko
@@ -34,6 +43,7 @@ AMP’s Working Groups are:
   * Responsible for AMP's infrastructure, including building, testing and release.
   * Facilitator: @rsimha
   * [Infrastructure WG Github repo](https://github.com/ampproject/wg-infra)
+  * Slack channel: [#wg-infra](https://amphtml.slack.com/messages/wg-infra)
   
 * **Outreach.**
   * Responsible for helping developers who use AMP remain productive and keeping the AMP community healthy.  This includes maintaining and enhancing AMP's developer-facing sites and documentation, maintaining communication channels, organizing community events, etc.
@@ -41,6 +51,12 @@ AMP’s Working Groups are:
   * [Outreach WG Github repo](https://github.com/ampproject/wg-outreach)
   * Slack channel: [#wg-outreach](https://amphtml.slack.com/messages/wg-outreach)
   
+* **Performance.**
+  * Responsible for monitoring and improving AMP's load and runtime performance for compliant documents.
+  * Facilitator: @kristoferbaxter
+  * [Performance WG Github repo](https://github.com/ampproject/wg-performance)
+  * Slack channel: [#wg-performance](https://amphtml.slack.com/messages/wg-performance)
+
 * **Runtime.**
   * Responsible for AMP's core runtime, such as layout/rendering and data binding.
   * Facilitator: @jridgewell
@@ -69,3 +85,4 @@ AMP’s Working Groups are:
   * Responsible for ensuring support for AMP viewers and for the [amp-viewer project](https://github.com/ampproject/amp-viewer).
   * Facilitator: @ericfs
   * [Viewers WG Github repo](https://github.com/ampproject/wg-viewers)
+  * Slack channel: [#wg-viewers](https://amphtml.slack.com/messages/wg-viewers)
