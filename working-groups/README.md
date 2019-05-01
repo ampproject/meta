@@ -1,7 +1,9 @@
 # Working Groups
 
 
-An AMP [Working Group](https://github.com/ampproject/meta/blob/master/GOVERNANCE.md#working-groups) is a segment of the community with knowledge/interest in specific area of AMP.  Working Groups are created by AMP’s [Technical Steering Committee](https://github.com/ampproject/meta/blob/master/GOVERNANCE.md#technical-steering-committee-tsc). 
+An AMP [Working Group](https://github.com/ampproject/meta/blob/master/GOVERNANCE.md#working-groups) is a segment of the community with knowledge/interest in specific area of AMP.  Working Groups are created by AMP’s [Technical Steering Committee](https://github.com/ampproject/meta/blob/master/GOVERNANCE.md#technical-steering-committee-tsc).
+
+Most Working Groups provide [~bi-weekly status updates](https://github.com/search?q=org%3Aampproject+label%3A%22Type%3A+Status+Update%22&type=Issues) and present [~quarterly high level updates](https://github.com/ampproject/meta/wiki/Working-Group-Updates) in a round-robin fashion at Design Reviews.
 
 AMP’s Working Groups are:
 
