@@ -73,7 +73,7 @@ AMP’s Working Groups are:
   
 * **UI & Accessibility**
   * Responsible for AMP's visual components & interactions and AMP's overall accessibility and user experience (including published guidelines for AMP UX).  The UI WG also has overall responsibility for ensuring AMP is accessible, though each WG is responsible for ensuring accessibility within their areas of responsibility. 
-  * Facilitator: @aghassemi
+  * Facilitator: @nainar
   * [UI & a11y WG Github repo](https://github.com/ampproject/wg-ui-and-a11y)
   * Slack channel: [#wg-ui-and-a11y](https://amphtml.slack.com/messages/wg-ui-and-a11y)
   
