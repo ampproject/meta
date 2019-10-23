@@ -41,6 +41,11 @@ AMP’s Working Groups are:
   * Facilitator: @nainar
   * [CoC WG Github repo](https://github.com/ampproject/wg-codeofconduct)
   
+* **Foundation Onboarding.**
+  * Responsible for ensuring the successful completion of the OpenJS Foundation's onboarding process.
+  * Facilitator: @tobie
+  * [Foundation Onboarding WG Github repo](https://github.com/ampproject/wg-foundation-onboarding)
+  
 * **Infrastructure.**
   * Responsible for AMP's infrastructure, including building, testing and release.
   * Facilitator: @rsimha
