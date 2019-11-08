@@ -37,7 +37,7 @@ AMP’s Working Groups are:
   * [Approvers WG Github repo](https://github.com/ampproject/wg-approvers)
   
 * **Bento.**
-  * Response for...
+Responsible for evaluating, designing, and implementing the architecture in which AMP elements can be used without AMP Runtime, and/or within popular Web frameworks.
   * Facilitator: @dvoytenko
   * [Bento WG Github repo](https://github.com/ampproject/wg-bento)
   * Slack channel: [#wg-bento](https://amphtml.slack.com/messages/wg-bento)
