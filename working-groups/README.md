@@ -36,6 +36,12 @@ AMP’s Working Groups are:
   * Facilitator: @dvoytenko
   * [Approvers WG Github repo](https://github.com/ampproject/wg-approvers)
   
+* **Bento.**
+Responsible for evaluating, designing, and implementing the architecture in which AMP elements can be used without AMP Runtime, and/or within popular Web frameworks.
+  * Facilitator: @dvoytenko
+  * [Bento WG Github repo](https://github.com/ampproject/wg-bento)
+  * Slack channel: [#wg-bento](https://amphtml.slack.com/messages/wg-bento)
+  
 * **Code of Conduct.**
   * Responsible for enforcing AMP's [Code of Conduct](https://github.com/ampproject/meta/blob/master/CODE_OF_CONDUCT.md).  (The Technical Steering Committee delegates its responsibility for enforcement of the Code of Conduct to this Working Group.)
   * Facilitator: @nainar
