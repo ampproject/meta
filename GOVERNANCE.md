@@ -22,7 +22,7 @@
 
 #### Role
 
-The Advisory Committee provides perspective and advice to the Technical Steering Committee.
+The Advisory Committee provides perspective and advice to the Technical Steering Committee. This advice is non-binding.
 
 #### Membership
 * Membership on the Advisory Committee shall include representatives from major AMP constituencies (Collaborators, Contributors, Users and End-Users) who are committed to fulfilling [AMP's vision and mission](https://www.ampproject.org/about/mission/).
