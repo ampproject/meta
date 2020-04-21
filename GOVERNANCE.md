@@ -43,7 +43,8 @@ The Advisory Committee provides perspective and advice to the Technical Steering
 * Sets and maintains the project guidelines.
 * Sets and maintains the project’s feature and bug fix process.
 * Enforces the Code of Conduct.
-* The TSC may designate entities to perform legal, security and privacy reviews of AMP code/features.
+* The TSC may designate entities to perform security and privacy reviews of AMP code/features.
+* The TSC may escalate legal questions to the Foundation.
 * Decisions within the TSC follow the decision-making policy, and are facilitated by the Facilitator or their designate.
 
 #### Membership
