@@ -17,7 +17,7 @@ Refer to the sections on reporting and escalation in this document for the speci
 
 ### AMP Project Spaces
 
-For reporting issues in spaces related to a member project please use the email provided by the project for reporting. Projects handle CoC issues related to the spaces that they maintain. Projects maintainers commit to:
+For reporting issues in spaces related to a member project please use the use the email `code-of-conduct@amp.dev`. AMP Project handles CoC issues related to the spaces that they maintain. Projects maintainers commit to:
 
 - maintain the confidentiality with regard to the reporter of an incident
 - to participate in the path for escalation as outlined in
