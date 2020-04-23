@@ -2,48 +2,119 @@
 
 All members, committers and volunteers in this community are required to act according to the following code of conduct. We encourage you to follow these guidelines, which help steer our interactions, keep the AMP Project a positive, growing project and community and provide and ensure a safe environment for everyone.
 
-## Responsible and enforcing this code of conduct
+AMP follows the OpenJS Foundation Code of Conduct that has been inlined below. You can find the original [here](https://github.com/openjs-foundation/cross-project-council/blob/master/CODE_OF_CONDUCT.md)
 
-If you are being harassed, notice that someone else is being harassed, or have any other concerns, please reach out to [members](https://github.com/ampproject/wg-codeofconduct#members) of the [Code of Conduct Working Group](https://github.com/ampproject/wg-codeofconduct) immediately. We are here to help you. Your reports will be taken seriously and not dismissed or argued with.
+# OpenJS Foundation Code of Conduct
 
-## What we believe in and how we act
+The OpenJS Foundation and its member projects use [Contributor Covenant v2.0](https://contributor-covenant.org/version/2/0/code_of_conduct) as their code of conduct. The full text is included [below](#contributor-covenant-code-of-conduct) in English, and translations are available from the Contributor Covenant organisation:
 
-- We are committed to providing a friendly, safe and welcoming environment for everyone, regardless of gender, sexual orientation, personal ability or disability, ethnicity, religion, level of experience, set of skills or similar personal characteristics.
-- Our community is based on mutual respect, tolerance, and encouragement.
-- We believe that a diverse community where people treat each other with respect is stronger, more vibrant and has more potential contributors and more sources for ideas. We aim for more diversity.
-- We are kind, welcoming and courteous to everyone.
-- We’re respectful of others, their positions, their skills, their commitments and their efforts.
-- We’re attentive in our communications, whether in person or online, and we're tactful when approaching differing views.
-- We are aware that language shapes reality. Thus, we use inclusive, gender-neutral language in the documents we provide and when we talk to people. When referring to a group of people, we aim to use gender-neutral terms like “team”, “folks”, “everyone”. (For details, we recommend [this post](https://modelviewculture.com/pieces/gendered-language-feature-or-bug-in-software-documentation)).
-- We respect that people have differences of opinion and criticize constructively.
+- [contributor-covenant.org/translations](https://www.contributor-covenant.org/translations)
+- [github.com/ContributorCovenant](https://github.com/ContributorCovenant/contributor_covenant/tree/release/content/version/2/0)
 
-## Don't
+Refer to the sections on reporting and escalation in this document for the specific emails that can be used to report and escalate issues.
 
-- Don’t be mean or rude.
-- Don’t discriminate against anyone. Although we have phrased the formal diversity statement generically to make it all-inclusive, we recognize that there are specific attributes that are used to discriminate against people. In alphabetical order, some of these attributes include (but are not limited to): age, culture, ethnicity, gender identity or expression, national origin, physical or mental difference, politics, race, religion, sex, sexual orientation, socio-economic status, and subculture. We welcome people regardless of these or other attributes.
-- Sexism and racism of any kind (including sexist and racist “jokes”), demeaning or insulting behaviour and harassment are seen as direct violations to this code of conduct. Harassment includes offensive verbal comments related to gender, sexual orientation, disability, physical appearance, body size, race, religion, sexual images in public spaces, deliberate intimidation, stalking, following, harassing photography or recording, inappropriate physical contact, and unwelcome sexual attention.
-- On IRC, Slack and other online or offline communications channels, don't use overtly sexual nicknames or other nicknames that might detract from a friendly, safe and welcoming environment for all.
-- Unwelcome / non-consensual sexual advances over IRC or any other channels related with this community are not okay.
-- Derailing, tone arguments and otherwise playing on people's desires to be nice are not welcome, especially in discussions about violations to this code of conduct.
-- Please avoid unstructured critique.
-- Likewise, any spamming, trolling, flaming, baiting or other attention-stealing behaviour is not welcome.
+## Reporting
 
-## Consequences for violations of this code of conduct
+### AMP Project Spaces
 
-If a participant engages in any behavior violating this code of conduct, the [Code of Conduct Working Group](https://github.com/ampproject/wg-codeofconduct) may take any action they deem appropriate, including warning the offender or expulsion from the community, exclusion from any interaction and loss of all rights in this community.
+For reporting issues in spaces related to a member project please use the email provided by the project for reporting. Projects handle CoC issues related to the spaces that they maintain. Projects maintainers commit to:
 
-## Decisions about consequences of violations
+- maintain the confidentiality with regard to the reporter of an incident
+- to participate in the path for escalation as outlined in
+  the section on Escalation when required.
 
-Decisions about consequences of violations of this code of conduct are being made by [Code of Conduct Working Group](https://github.com/ampproject/wg-codeofconduct) and will not be discussed with the person responsible for the violation.
+### Foundation Spaces
 
-## For questions or feedback
+For reporting issues in spaces managed by the AMP Project, use the email `code-of-conduct@amp.dev`. The [Code of Conduct Working Group](https://github.com/ampproject/wg-codeofconduct) is responsible for managing these reports and commits to:
 
-If you have any questions or feedback on this code of conduct, we're happy to hear from you: amphtml-coc@googlegroups.com (Private group; posts are not publicly visible; access is limited to the Working Group members.)
+- maintain the confidentiality with regard to the reporter of an incident
+- to participate in the path for escalation as outlined in
+  the section on Escalation when required.
 
-## Thanks for the inspiration
+## Escalation
 
-This code of conduct is based on the [Hoodie Community Code of Conduct](http://hood.ie/code-of-conduct/), with permission.
+The OpenJS Foundation maintains a Code of Conduct Panel (CoCP). This is a foundation-wide team established to manage escalation when a reporter believes that a report to a member project or the CPC has not been properly handled. In order to escalate to the CoCP send an email to `coc-escalation@lists.openjsf.org`.
 
-## License
+For more information, refer to the full
+[Code of Conduct governance document](https://github.com/openjs-foundation/bootstrap/blob/master/proposals/stage-2/CODE_OF_CONDUCT/FOUNDATION_CODE_OF_CONDUCT_REQUIREMENTS.md).
 
-This page is licensed as [CC-BY-NC](http://creativecommons.org/licenses/by-nc/4.0/).
+---
+
+## Contributor Covenant Code of Conduct v2.0
+
+### Our Pledge
+
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, sex characteristics, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+
+We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
+
+### Our Standards
+
+Examples of behavior that contributes to a positive environment for our community include:
+
+* Demonstrating empathy and kindness toward other people
+* Being respectful of differing opinions, viewpoints, and experiences
+* Giving and gracefully accepting constructive feedback
+* Accepting responsibility and apologizing to those affected by our mistakes, and learning from the experience
+* Focusing on what is best not just for us as individuals, but for the overall community
+
+Examples of unacceptable behavior include:
+
+* The use of sexualized language or imagery, and sexual attention or advances of any kind
+* Trolling, insulting or derogatory comments, and personal or political attacks
+* Public or private harassment
+* Publishing others' private information, such as a physical or email address, without their explicit permission
+* Other conduct which could reasonably be considered inappropriate in a professional setting
+
+### Enforcement Responsibilities
+
+Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
+
+Community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
+
+### Scope
+
+This Code of Conduct applies within all community spaces, and also applies when an individual is officially representing the community in public spaces. Examples of representing our community include using an official e-mail address, posting via an official social media account, or acting as an appointed representative at an online or offline event.
+
+### Enforcement
+
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the community leaders responsible for enforcement at the email addresses listed above in the [Reporting](#reporting) and [Escalation](#escalation) sections. All complaints will be reviewed and investigated promptly and fairly.
+
+All community leaders are obligated to respect the privacy and security of the reporter of any incident.
+
+### Enforcement Guidelines
+
+Community leaders will follow these Community Impact Guidelines in determining the consequences for any action they deem in violation of this Code of Conduct:
+
+#### 1. Correction
+
+**Community Impact**: Use of inappropriate language or other behavior deemed unprofessional or unwelcome in the community.
+
+**Consequence**: A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.
+
+#### 2. Warning
+
+**Community Impact**: A violation through a single incident or series of actions.
+
+**Consequence**: A warning with consequences for continued behavior. No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.
+
+#### 3. Temporary Ban
+
+**Community Impact**: A serious violation of community standards, including sustained inappropriate behavior.
+
+**Consequence**: A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
+
+#### 4. Permanent Ban
+
+**Community Impact**: Demonstrating a pattern of violation of community standards, including sustained inappropriate behavior,  harassment of an individual, or aggression toward or disparagement of classes of individuals.
+
+**Consequence**: A permanent ban from any sort of public interaction within the project community.
+
+### Attribution
+
+This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org), version 2.0, available at [contributor-covenant.org/version/2/0/code_of_conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct).
+
+Community Impact Guidelines were inspired by [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/diversity).
+
+For answers to common questions about this code of conduct, see the FAQ at
+[contributor-covenant.org/faq](https://www.contributor-covenant.org/faq). Translations are available at [contributor-covenant.org/translations](https://www.contributor-covenant.org/translations).
