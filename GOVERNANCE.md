@@ -36,6 +36,7 @@ The Advisory Committee provides perspective and advice to the Technical Steering
 
 #### Role
 
+* Technical leadership of the AMP project is delegated to the TSC by the OpenJS Cross Project Council (CPC) in accordance with the [AMP Charter](https://github.com/ampproject/meta/blob/master/GOVERNANCE.md).
 * The TSC's primary role is setting AMP's technical & product direction based on the [project guidelines](https://www.ampproject.org/about/amp-design-principles/).
 * Creates a product roadmap in consultation with the Working Groups.
 * Creates Working Groups and sets the initial membership & initial Facilitator of the Working Groups.  The TSC may initiate the creation of Working Groups or a group of people with a common interest may request recognition as a Working Group.
@@ -43,7 +44,8 @@ The Advisory Committee provides perspective and advice to the Technical Steering
 * Sets and maintains the project guidelines.
 * Sets and maintains the project’s feature and bug fix process.
 * Enforces the Code of Conduct.
-* The TSC may designate entities to perform legal, security and privacy reviews of AMP code/features.
+* Approves changes to the AMP Charter in coordination with the OpenJS CPC as described in the [AMP Charter](https://github.com/ampproject/meta/blob/master/GOVERNANCE.md).
+* The TSC may designate entities to perform legal, security and privacy reviews of AMP code/features. 
 * Decisions within the TSC follow the decision-making policy, and are facilitated by the Facilitator or their designate.
 
 #### Membership
@@ -54,7 +56,7 @@ The Advisory Committee provides perspective and advice to the Technical Steering
 * Once established the TSC sets its own membership through the consensus-based process.
 * The TSC shall have a goal of having no more than ⅓ of the TSC from one employer.  Given the requirement that membership in the TSC requires recognized technical and/or product experience with AMP this may not be feasible at the time the TSC is formed, but the TSC should actively work towards this goal.
 * Entities (such as a company) may be granted seats on the TSC.  In these cases certain conditions may be placed on the seat (such as maintaining committed resources to the project). The entity may designate the individual representing the entity at the TSC and may change this individual at their discretion.
-* The TSC will designate a Facilitator from among its members for the purposes of facilitating the consensus-based decision-making process.
+* The TSC will designate a Facilitator from among its members for the purposes of facilitating the consensus-based decision-making process and for representing the TSC to the OpenJS CPC.
 
 ### Working Groups
 
