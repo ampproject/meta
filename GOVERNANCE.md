@@ -36,7 +36,7 @@ The Advisory Committee provides perspective and advice to the Technical Steering
 
 #### Role
 
-* Technical leadership of the AMP project is delegated to the TSC by the OpenJS Cross Project Council (CPC) in accordance with the [AMP Charter](https://github.com/ampproject/meta/blob/master/GOVERNANCE.md).
+* Technical leadership of the AMP project is delegated to the TSC by the OpenJS Cross Project Council (CPC) in accordance with the [AMP Charter](https://github.com/ampproject/meta/blob/master/CHARTER.md).
 * The TSC's primary role is setting AMP's technical & product direction based on the [project guidelines](https://www.ampproject.org/about/amp-design-principles/).
 * Creates a product roadmap in consultation with the Working Groups.
 * Creates Working Groups and sets the initial membership & initial Facilitator of the Working Groups.  The TSC may initiate the creation of Working Groups or a group of people with a common interest may request recognition as a Working Group.
