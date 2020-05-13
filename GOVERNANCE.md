@@ -57,7 +57,7 @@ The Advisory Committee provides perspective and advice to the Technical Steering
 * Once established the TSC sets its own membership through the consensus-based process.
 * The TSC shall have a goal of having no more than ⅓ of the TSC from one employer.  Given the requirement that membership in the TSC requires recognized technical and/or product experience with AMP this may not be feasible at the time the TSC is formed, but the TSC should actively work towards this goal.
 * Entities (such as a company) may be granted seats on the TSC.  In these cases certain conditions may be placed on the seat (such as maintaining committed resources to the project). The entity may designate the individual representing the entity at the TSC and may change this individual at their discretion.
-* The TSC will designate a Facilitator from among its members for the purposes of facilitating the consensus-based decision-making process and for representing the TSC to the OpenJS CPC.
+* The TSC will designate a Facilitator from among its members for the purposes of facilitating the consensus-based decision-making process.
 
 ### Working Groups
 
