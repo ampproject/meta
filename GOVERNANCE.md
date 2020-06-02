@@ -97,7 +97,7 @@ The Advisory Committee provides perspective and advice to the Technical Steering
 
 ## Contributor License Agreement
 
-* The AMP Project requires all Owners, Collaborators, and Contributors who open a pull request to either sign an individual Contributor License Agreement (CLA) or be covered by a corporate CLA in order to protect contributors and users in issues of intellectual property.
+* The AMP Project requires all Owners, Collaborators, and Contributors who open a pull request to either accept the terms of an individual Contributor License Agreement (CLA) or be covered by a corporate CLA in order to protect contributors and users in issues of intellectual property.
 
 * TSC members which aren't already covered by an individual or corporate CLA are required to be covered upon joining the TSC.
 
