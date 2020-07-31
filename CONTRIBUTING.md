@@ -1,7 +1,6 @@
 # How to Contribute
 
-We'd love to accept your patches and contributions to this project. There are
-just a few small guidelines you need to follow.
+We welcome contributions to make AMP better!  The [amphtml CONTRIBUTING.md](https://github.com/ampproject/amphtml/blob/master/CONTRIBUTING.md) contains information on how to contribute that applies to most ampproject repositories, though some repositories may have some differences as specified in their CONTRIBUTING.md.
 
 ## Contributor License Agreement
 
@@ -15,14 +14,11 @@ You generally only need to submit a CLA once, so if you've already submitted one
 (even if it was for a different project), you probably don't need to do it
 again.
 
-## Code reviews
+## Creating new repositories
 
-All submissions, including submissions by project members, require review. We
-use GitHub pull requests for this purpose. Consult
-[GitHub Help](https://help.github.com/articles/about-pull-requests/) for more
-information on using pull requests.
+The process of creating a new repository in the ampproject org is:
 
-## Community Guidelines
-
-This project follows
-[Google's Open Source Community Guidelines](https://opensource.google.com/conduct/).
+- File an issue in the meta reposotiry describing the purpose of the repository, the desired name and the desired initial set of admins.
+- Notify the TSC of the request by ccing @ampproject/tsc
+- Obtain approval from 3 members of [wg-approvers](https://github.com/orgs/ampproject/teams/wg-approvers).
+- cc or assign the issue to @mrjoro to create the repository
