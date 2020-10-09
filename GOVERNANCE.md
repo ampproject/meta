@@ -14,7 +14,7 @@
 
 * **Technical Steering Committee (TSC).**  A group of people who set AMP's technical & product direction.
 
-* <strong id=wg>Working Groups (WG)</strong>.  A group of people who have a familiarity and interest in a given area; may be cross-cutting (e.g. "Documentation") or focused on a given area (e.g. "Ads & Analytics" or "Runtime").  These are formally recognized by the TSC, but may form informally.
+* <strong id=wg>Working Groups (WG)</strong>.  A group of people who have a familiarity and interest in a given area; may be cross-cutting (e.g. "Documentation") or focused on a given area (e.g. "Monetization" or "Performance"). These are formally recognized by the TSC, but may form informally.
 
 ## Governance Structures
 
