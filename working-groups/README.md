@@ -96,6 +96,6 @@ Responsible for evaluating, designing, and implementing the architecture in whic
   
 * **Viewers.**
   * Responsible for ensuring support for AMP viewers and for the [amp-viewer project](https://github.com/ampproject/amp-viewer).
-  * Facilitator: @ericfs
+  * Facilitator: @enriqe
   * [Viewers WG Github repo](https://github.com/ampproject/wg-viewers)
   * Slack channel: [#wg-viewers](https://amphtml.slack.com/messages/wg-viewers)
