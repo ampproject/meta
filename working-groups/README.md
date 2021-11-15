@@ -17,13 +17,7 @@ AMP’s Working Groups are:
   * Responsible for approving changes that have a significant impact on AMP's behavior or significant new features as described in the feature and bug fix process.
   * Facilitator: @dvoytenko
   * [Approvers WG Github repo](https://github.com/ampproject/wg-approvers)
-  
-* **Bento.**
-Responsible for evaluating, designing, and implementing the architecture in which AMP elements can be used without AMP Runtime, and/or within popular Web frameworks.
-  * Facilitator: @dvoytenko
-  * [Bento WG Github repo](https://github.com/ampproject/wg-bento)
-  * Slack channel: [#wg-bento](https://amphtml.slack.com/messages/wg-bento)
-  
+
 * **Code of Conduct.**
   * Responsible for enforcing AMP's [Code of Conduct](https://github.com/ampproject/meta/blob/master/CODE_OF_CONDUCT.md).  (The Technical Steering Committee delegates its responsibility for enforcement of the Code of Conduct to this Working Group.)
   * Facilitator: @nainar
@@ -59,7 +53,7 @@ Responsible for evaluating, designing, and implementing the architecture in whic
   * Slack channel: [#wg-outreach](https://amphtml.slack.com/messages/wg-outreach)
   
 * **Performance.**
-  * Responsible for monitoring and improving AMP's load and runtime performance. Additionally this includes AMP's core runtime, including layout/rendering and data binding.
+  * Responsible for monitoring and improving AMP's load and runtime performance across all formats. Additionally this group is responsible for AMP's core runtime, including layout/rendering and data binding. Lastly, this group evaluates, designs, and implements the architecture in which AMP elements can be used without AMP Runtime.
   * Facilitator: @erwinmombay
   * [Performance WG Github repo](https://github.com/ampproject/wg-performance)
   * Slack channel: [#wg-performance](https://amphtml.slack.com/messages/wg-performance)
